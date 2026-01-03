@@ -2,34 +2,18 @@
 
 **`Cursando Engenharia de Software`**
 
-Sou Gabriel Coutinho, tenho 19 anos e atualmente curso Engenharia de Software na PUC Campinas.
+Me chamo Gabriel Coutinho, tenho 19 anos e atualmente curso **Engenharia de Software**. Desde novo sempre tive interesse por tecnologia, principalmente por jogos e pela curiosidade de entender como eles são desenvolvidos. Essa paixão me levou ao mundo da programação e despertou em mim o desejo de aprender, praticar e evoluir continuamente na área de desenvolvimento de software.
 
-Desde novo sempre tive interesse por tecnologia, principalmente por jogos e pela curiosidade de entender como eles são desenvolvidos. Essa paixão me levou ao mundo da programação e despertou em mim o desejo de aprender, praticar e evoluir continuamente na área de desenvolvimento de software.
+### 🧑🏽 Sobre mim:
 
-<p align="left">
-    <a href="https://github.com/gcoutiinho?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gcoutiinho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/gcoutiinho?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gcoutiinho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/gabrielcoutinho1/">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=person-fill"
-        />
-    </a>
-    
-</p>
+- 🎓 Cursando Engenharia de Software na Puc-Campinas
+- 💼 Buscando oportunidades na área de desenvolvedor
+
+## 👇🏽 Me encontre aqui:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcoutinho1/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g.coutinho__/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcoutiinho)
 
 ---
 
