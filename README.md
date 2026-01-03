@@ -101,7 +101,3 @@ align="left"
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-![Gabriel Coutinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcoutiinho&show_icons=true)
