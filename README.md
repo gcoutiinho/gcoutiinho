@@ -21,6 +21,13 @@ Desde novo sempre tive interesse por tecnologia, principalmente por jogos e pela
             src="https://custom-icon-badges.demolab.com/github/stars/gcoutiinho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+    <a href="https://www.linkedin.com/in/gabrielcoutinho1/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=person-fill"
+        />
+    </a>
     
 </p>
 
